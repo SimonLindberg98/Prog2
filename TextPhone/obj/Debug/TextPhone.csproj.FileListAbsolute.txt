@@ -1,0 +1,28 @@
+C:\Users\sli0504\Google Drive\Te3B\Programmering 2\TextPhone\bin\Debug\TextPhone.exe.config
+E:\Google Drive\Te3B\Programmering 2\TextPhone\bin\Debug\TextPhone.exe.config
+E:\Google Drive\Te3B\Programmering 2\TextPhone\bin\Debug\TextPhone.exe
+E:\Google Drive\Te3B\Programmering 2\TextPhone\bin\Debug\TextPhone.pdb
+E:\Google Drive\Te3B\Programmering 2\TextPhone\obj\Debug\TextPhone.csprojResolveAssemblyReference.cache
+E:\Google Drive\Te3B\Programmering 2\TextPhone\obj\Debug\TextPhone.Properties.Resources.resources
+E:\Google Drive\Te3B\Programmering 2\TextPhone\obj\Debug\TextPhone.csproj.GenerateResource.Cache
+E:\Google Drive\Te3B\Programmering 2\TextPhone\obj\Debug\TextPhone.exe
+E:\Google Drive\Te3B\Programmering 2\TextPhone\obj\Debug\TextPhone.pdb
+E:\Google Drive\Te3B\Programmering 2\TextPhone\obj\Debug\TextPhone.Form1.resources
+C:\Users\simon\Desktop\TextPhone\bin\Debug\TextPhone.exe.config
+C:\Users\simon\Desktop\TextPhone\obj\Debug\TextPhone.exe
+C:\Users\simon\Desktop\TextPhone\obj\Debug\TextPhone.pdb
+C:\Users\simon\Desktop\TextPhone\bin\Debug\TextPhone.exe
+C:\Users\simon\Desktop\TextPhone\bin\Debug\TextPhone.pdb
+C:\Users\simon\Desktop\TextPhone\obj\Debug\TextPhone.csprojResolveAssemblyReference.cache
+C:\Users\simon\Desktop\TextPhone\obj\Debug\TextPhone.Form1.resources
+C:\Users\simon\Desktop\TextPhone\obj\Debug\TextPhone.Properties.Resources.resources
+C:\Users\simon\Desktop\TextPhone\obj\Debug\TextPhone.csproj.GenerateResource.Cache
+C:\Users\sli0504\Google Drive\TextPhone\bin\Debug\TextPhone.exe.config
+C:\Users\sli0504\Google Drive\TextPhone\obj\Debug\TextPhone.exe
+C:\Users\sli0504\Google Drive\TextPhone\obj\Debug\TextPhone.pdb
+C:\Users\sli0504\Google Drive\TextPhone\bin\Debug\TextPhone.exe
+C:\Users\sli0504\Google Drive\TextPhone\bin\Debug\TextPhone.pdb
+C:\Users\sli0504\Google Drive\TextPhone\obj\Debug\TextPhone.csprojResolveAssemblyReference.cache
+C:\Users\sli0504\Google Drive\TextPhone\obj\Debug\TextPhone.Form1.resources
+C:\Users\sli0504\Google Drive\TextPhone\obj\Debug\TextPhone.Properties.Resources.resources
+C:\Users\sli0504\Google Drive\TextPhone\obj\Debug\TextPhone.csproj.GenerateResource.Cache
