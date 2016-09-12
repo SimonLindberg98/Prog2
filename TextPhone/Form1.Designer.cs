@@ -200,6 +200,7 @@
             this.wordListBox.Name = "wordListBox";
             this.wordListBox.Size = new System.Drawing.Size(80, 95);
             this.wordListBox.TabIndex = 3;
+            this.wordListBox.Click += new System.EventHandler(this.wordListBox_Click);
             // 
             // t9_checkBox
             // 

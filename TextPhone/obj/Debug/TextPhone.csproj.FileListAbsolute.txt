@@ -26,3 +26,12 @@ C:\Users\sli0504\Google Drive\TextPhone\obj\Debug\TextPhone.csprojResolveAssembl
 C:\Users\sli0504\Google Drive\TextPhone\obj\Debug\TextPhone.Form1.resources
 C:\Users\sli0504\Google Drive\TextPhone\obj\Debug\TextPhone.Properties.Resources.resources
 C:\Users\sli0504\Google Drive\TextPhone\obj\Debug\TextPhone.csproj.GenerateResource.Cache
+C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\bin\Debug\TextPhone.exe.config
+C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\bin\Debug\TextPhone.exe
+C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\bin\Debug\TextPhone.pdb
+C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\obj\Debug\TextPhone.csprojResolveAssemblyReference.cache
+C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\obj\Debug\TextPhone.Form1.resources
+C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\obj\Debug\TextPhone.Properties.Resources.resources
+C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\obj\Debug\TextPhone.csproj.GenerateResource.Cache
+C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\obj\Debug\TextPhone.exe
+C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\obj\Debug\TextPhone.pdb
