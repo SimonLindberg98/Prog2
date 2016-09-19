@@ -213,6 +213,7 @@ namespace TextPhone
         private void wordListBox_Click(object sender, EventArgs e)
         {
             textBox1.Text = wordListBox.SelectedItem.ToString();
+            wordListBox.Items.Clear();
         }
 
         public void permutations(int btnNum, int lstBoxValues, int timesPressed)

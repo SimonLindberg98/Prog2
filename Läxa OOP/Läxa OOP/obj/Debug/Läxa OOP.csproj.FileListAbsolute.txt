@@ -1,0 +1,6 @@
+C:\Users\simon\OneDrive\Dokument\GitHub\Läxa OOP\Läxa OOP\bin\Debug\Läxa OOP.exe.config
+C:\Users\simon\OneDrive\Dokument\GitHub\Läxa OOP\Läxa OOP\bin\Debug\Läxa OOP.exe
+C:\Users\simon\OneDrive\Dokument\GitHub\Läxa OOP\Läxa OOP\bin\Debug\Läxa OOP.pdb
+C:\Users\simon\OneDrive\Dokument\GitHub\Läxa OOP\Läxa OOP\obj\Debug\Läxa OOP.csprojResolveAssemblyReference.cache
+C:\Users\simon\OneDrive\Dokument\GitHub\Läxa OOP\Läxa OOP\obj\Debug\Läxa OOP.exe
+C:\Users\simon\OneDrive\Dokument\GitHub\Läxa OOP\Läxa OOP\obj\Debug\Läxa OOP.pdb
