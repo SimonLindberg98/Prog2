@@ -35,3 +35,12 @@ C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\obj\Debug\TextPhone.Prop
 C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\obj\Debug\TextPhone.csproj.GenerateResource.Cache
 C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\obj\Debug\TextPhone.exe
 C:\Users\simon\OneDrive\Dokument\GitHub\Prog2\TextPhone\obj\Debug\TextPhone.pdb
+C:\Users\sli0504\Documents\Prog2\TextPhone\bin\Debug\TextPhone.exe.config
+C:\Users\sli0504\Documents\Prog2\TextPhone\obj\Debug\TextPhone.exe
+C:\Users\sli0504\Documents\Prog2\TextPhone\obj\Debug\TextPhone.pdb
+C:\Users\sli0504\Documents\Prog2\TextPhone\bin\Debug\TextPhone.exe
+C:\Users\sli0504\Documents\Prog2\TextPhone\bin\Debug\TextPhone.pdb
+C:\Users\sli0504\Documents\Prog2\TextPhone\obj\Debug\TextPhone.csprojResolveAssemblyReference.cache
+C:\Users\sli0504\Documents\Prog2\TextPhone\obj\Debug\TextPhone.Form1.resources
+C:\Users\sli0504\Documents\Prog2\TextPhone\obj\Debug\TextPhone.Properties.Resources.resources
+C:\Users\sli0504\Documents\Prog2\TextPhone\obj\Debug\TextPhone.csproj.GenerateResource.Cache

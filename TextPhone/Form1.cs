@@ -75,7 +75,7 @@ namespace TextPhone
             timesPressed = 0;
         }
 
-        //Tar endast bort det senaste tecknet i textrutan
+        //Ta bort det senaste tecknet i textrutan
         private void btn_Backspace_Click(object sender, EventArgs e)
         {
             if (textBox1.Text.Length > 0)
@@ -95,8 +95,8 @@ namespace TextPhone
                 //identifiera knappen på siffran i dess namn
                 int btnNum = Convert.ToInt32(b.Name.Substring(3));
 
-                //Ta fram rätt nummer beroende på antal klick
-                Number = tid(Number, Convert.ToInt32(b.Name.Substring(3)));
+                //Ta fram rätt nummer (för att välja char ur array) beroende på antal klick
+                Number = timer(Number, Convert.ToInt32(b.Name.Substring(3)));
 
                 start = DateTime.Now;
                 timer1.Start();
@@ -140,7 +140,7 @@ namespace TextPhone
         }
 
         //Skickar in samma char num så man kan byta mellan bokstäverna på en knapp.
-        public int tid(int prevCharNum, int btnNum)
+        public int timer(int prevCharNum, int btnNum)
         {
             int charNum;
             
@@ -213,6 +213,7 @@ namespace TextPhone
         private void wordListBox_Click(object sender, EventArgs e)
         {
             textBox1.Text = wordListBox.SelectedItem.ToString();
+            wordListBox.Items.Clear();
         }
 
         public void permutations(int btnNum, int lstBoxValues, int timesPressed)
@@ -225,9 +226,12 @@ namespace TextPhone
                 {
                     wordListBox.Items.Add(firstChar + btnChars[btnNum][j]);
                 }
+                //Tar bort bokstäverna, så efter tex a kombinerats med d,e,f så kan b kombiners med d,e,f.
                 wordListBox.Items.RemoveAt(0);
-                //wordListBox.Items.Remove(wordListBox.Items[0]);
+                
             }
+
+            //Rensar bort tecken från listBoxen efter utskrivningen av permutationerna är färdig.
             for (int i = 0; i < wordListBox.Items.Count; i++)
             {
                 if (wordListBox.Items[i].ToString().Length < timesPressed)
@@ -236,7 +240,6 @@ namespace TextPhone
                     i = -1;
                 }
             }
-
         }
     }
 }
