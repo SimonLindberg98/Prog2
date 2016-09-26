@@ -1,0 +1,9 @@
+C:\Users\sli0504\Github\prog2\Bordtennisresultat\bin\Debug\Bordtennisresultat.exe.config
+C:\Users\sli0504\Github\prog2\Bordtennisresultat\bin\Debug\Bordtennisresultat.exe
+C:\Users\sli0504\Github\prog2\Bordtennisresultat\bin\Debug\Bordtennisresultat.pdb
+C:\Users\sli0504\Github\prog2\Bordtennisresultat\obj\Debug\Bordtennisresultat.csprojResolveAssemblyReference.cache
+C:\Users\sli0504\Github\prog2\Bordtennisresultat\obj\Debug\Bordtennisresultat.Form1.resources
+C:\Users\sli0504\Github\prog2\Bordtennisresultat\obj\Debug\Bordtennisresultat.Properties.Resources.resources
+C:\Users\sli0504\Github\prog2\Bordtennisresultat\obj\Debug\Bordtennisresultat.csproj.GenerateResource.Cache
+C:\Users\sli0504\Github\prog2\Bordtennisresultat\obj\Debug\Bordtennisresultat.exe
+C:\Users\sli0504\Github\prog2\Bordtennisresultat\obj\Debug\Bordtennisresultat.pdb

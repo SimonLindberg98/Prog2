@@ -1,0 +1,9 @@
+C:\Users\sli0504\Github\prog2\Tidsplan\bin\Debug\Tidpunkt.exe.config
+C:\Users\sli0504\Github\prog2\Tidsplan\bin\Debug\Tidpunkt.exe
+C:\Users\sli0504\Github\prog2\Tidsplan\bin\Debug\Tidpunkt.pdb
+C:\Users\sli0504\Github\prog2\Tidsplan\obj\Debug\Tidpunkt.csprojResolveAssemblyReference.cache
+C:\Users\sli0504\Github\prog2\Tidsplan\obj\Debug\Tidpunkt.TidpunktTest.resources
+C:\Users\sli0504\Github\prog2\Tidsplan\obj\Debug\Tidpunkt.Properties.Resources.resources
+C:\Users\sli0504\Github\prog2\Tidsplan\obj\Debug\Tidpunkt.csproj.GenerateResource.Cache
+C:\Users\sli0504\Github\prog2\Tidsplan\obj\Debug\Tidpunkt.exe
+C:\Users\sli0504\Github\prog2\Tidsplan\obj\Debug\Tidpunkt.pdb
