@@ -30,10 +30,5 @@ namespace Tidpunkt
             tid.Ticka();
             displayLabel.Text = tid.TillSträng();
         }
-
-        private void TidpunktTest_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
