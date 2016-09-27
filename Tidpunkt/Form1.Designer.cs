@@ -116,7 +116,7 @@
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // Form1
+            // TidpunktTest
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -130,8 +130,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.displayLabel);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Name = "Form1";
+            this.Name = "TidpunktTest";
             this.Text = "Tidpunkt";
+            this.Load += new System.EventHandler(this.TidpunktTest_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
